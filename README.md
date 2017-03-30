@@ -1,4 +1,5 @@
 # GoCardless Web Scraper Interview Question
+Solution to the GoCardless Web Scraper interview question
 
 ## Requirements
 - NodeJS (v6.X.X)
